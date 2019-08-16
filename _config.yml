@@ -105,6 +105,3 @@ feed:
   hub:
   content: 'true'
 
-# github code同时部署命令
-#hexo clean && hexo g && hexo d
-

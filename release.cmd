@@ -1,1 +1,1 @@
-hexo clean && hexo g && hexo d
+hexo clean && hexo g && hexo d rem github code同时部署命令
