@@ -152,8 +152,8 @@ baidu_push: false
 menu:
   home: / || home
   about: /about/ || user
-  tags: /tags/ || tags
-  categories: /categories/ || th
+#  tags: /tags/ || tags
+#  categories: /categories/ || th
   archives: /archives/ || archive
   # schedule: /schedule/ || calendar
 #  sitemap: /sitemap.xml || sitemap
@@ -210,8 +210,8 @@ social_icons:
 # Blog rolls
 links_icon: link
 links_title: Links
-links_layout: block
-#links_layout: inline
+#links_layout: block
+links_layout: inline
 links:
   baidu: https://www.baidu.com/
   google: https://www.google.com/
@@ -222,7 +222,7 @@ avatar:
   # In theme directory (source/images): /images/avatar.gif
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  avatar: /images/avatar.png
+  url: /images/avatar.jpg
   # If true, the avatar would be dispalyed in circle.
   rounded: true
   # If true, the avatar would be rotated with the cursor.
